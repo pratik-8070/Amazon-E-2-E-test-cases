@@ -1,27 +1,28 @@
-📌 Amazon End-to-End Test Cases
+# Amazon E2E Test Cases – Manual Testing Project
 
-📋 Overview
+This project includes end-to-end manual test cases for core Amazon functionalities:
 
-This project contains end-to-end (E2E) test cases for verifying key functionalities of the Amazon website. It ensures that various UI elements, navigation flows, and user interactions work as expected.
+## 📦 Modules Covered
+- Login
+- Product Search
+- Cart Management
+- Checkout
+- Payment Flow
 
-🛠️ Features Tested
-	•	Homepage navigation and UI alignment
-	•	Product grid, footer, and header validation
-	•	Recommended deals and product suggestions
-	•	Functional buttons like Home, Prime Video, and Back to Top
-	•	Browsing history visibility and editing
+## 🛠️ Tools Used
+- MS Excel (for test case documentation)
+- JIRA (simulated for bug tracking)
 
-📂 Project Structure
-	•	Test Cases Spreadsheet: A detailed test suite covering UI, functionality, and regression testing.
-	•	Steps to Reproduce: Clear steps for executing each test case.
-	•	Expected vs. Actual Behavior: Ensuring accuracy in test execution.
+## 📄 Files Included
+- `Amazon_E2E_TestCases.xlsx` – 25+ detailed test cases with expected results and status.
 
-🚀 How to Use
-	1.	Open the provided test case document.
-	2.	Follow the “Steps to Reproduce” for each test scenario.
-	3.	Compare “Expected Behavior” with “Actual Behavior.”
-	4.	Log any discrepancies as defects.
+## ✅ Highlights
+- Covered positive and negative test scenarios
+- Applied boundary value and UI validation techniques
+- Aligned with real-time SDLC process and test planning
 
-📌 Contributing
+---
 
-Feel free to raise issues or suggest improvements!
+### 👨‍💻 About Me
+I’m a QA Engineer passionate about delivering bug-free applications.  
+[Connect on LinkedIn](https://www.linkedin.com/in/pratik-lal-vishwakarma/)
