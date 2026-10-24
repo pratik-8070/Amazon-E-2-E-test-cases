@@ -14,7 +14,7 @@ This project includes end-to-end manual test cases for core Amazon functionaliti
 - JIRA (simulated for bug tracking)
 
 ## 📄 Files Included
-- `Amazon_E2E_TestCases.xlsx` – 25+ detailed test cases with expected results and status.
+- [`Amazon E-2-E test cases.xlsx`](Amazon%20E-2-E%20test%20cases.xlsx) – 25+ detailed test cases with expected results and status.
 
 ## ✅ Highlights
 - Covered positive and negative test scenarios
